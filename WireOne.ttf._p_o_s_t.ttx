@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-154"/>
+    <underlineThickness value="102"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+      <psName name="nonmarkingreturn#1" psName="nonmarkingreturn"/>
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name=".null"/>
+      <psName name="uni00AD"/>
+      <psName name="macron"/>
+      <psName name="periodcentered"/>
+      <psName name="foursuperior"/>
+      <psName name="Euro"/>
+      <psName name="uni2215"/>
+      <psName name="uniE0FF"/>
+      <psName name="uniEFFD"/>
+      <psName name="uniF000"/>
+      <psName name="noBreak"/>
+      <psName name="ampersand.alt"/>
+      <psName name="nonmarkingreturn"/>
+      <psName name="foundryicon"/>
+    </extraNames>
+  </post>
+
+</ttFont>
