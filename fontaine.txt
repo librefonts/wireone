@@ -1,0 +1,38 @@
+Fonts
+  Font:
+    Common name: Wire One
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Cyreal Type Foundry. All rights reserved.
+    License: Copyright (c) 2011, Cyreal Type Foundry,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Cyreal Type Foundry
+    Vendor url: http://cyreal.org
+    Designer: Alexei Vanyashin, Gayaneh Bagdasaryan
+    Designer url: http://cyreal.org
+    Glyph count: 228
+    Character count: 222
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 99
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
